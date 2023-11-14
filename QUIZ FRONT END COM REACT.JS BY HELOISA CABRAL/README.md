@@ -31,7 +31,7 @@ Para iniciar o servidor de desenvolvimento:
 ```bash
 npm run dev
 
-## Fotos:
+
 ![image](https://github.com/devheloisacabral/REACT-QUIZ/assets/108575773/5410ede5-140d-4502-abed-e625680a21a4)
 ![image](https://github.com/devheloisacabral/REACT-QUIZ/assets/108575773/aa85072e-aa32-4af5-a9dc-43e3170d9f9d)
 ![image](https://github.com/devheloisacabral/REACT-QUIZ/assets/108575773/72611889-0fd0-4cbd-9817-045ada752c37)
