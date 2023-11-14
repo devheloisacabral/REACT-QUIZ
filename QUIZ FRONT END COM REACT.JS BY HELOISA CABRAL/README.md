@@ -28,11 +28,4 @@ A aplicação consiste em um quiz com 10 perguntas do básico ao avançado sobre
 
 
 
-![image](https://github.com/devheloisacabral/REACT-QUIZ/assets/108575773/72611889-0fd0-4cbd-9817-045ada752c37)
-
-![image](https://github.com/devheloisacabral/REACT-QUIZ/assets/108575773/a4c97582-6b1b-447e-9b66-4dd8c7d9a889)
-
-
-
-
 
