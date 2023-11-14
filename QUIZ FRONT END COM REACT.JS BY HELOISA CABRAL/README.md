@@ -24,12 +24,6 @@ A aplicação consiste em um quiz com 10 perguntas do básico ao avançado sobre
 2. Entre no diretório do projeto
 3. Instale as dependências: `npm install`
 
-## ▶️ Execução
-
-Para iniciar o servidor de desenvolvimento:
-
-```bash
-npm run dev
 
 
 
