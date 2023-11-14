@@ -24,7 +24,9 @@ A aplicação consiste em um quiz com 10 perguntas do básico ao avançado sobre
 2. Entre no diretório do projeto
 3. Instale as dependências: `npm install`
 
-4. ![image](https://github.com/devheloisacabral/REACT-QUIZ/assets/108575773/8025ee77-e8e6-4ad8-96ac-8c0689e02333)
+4. 
+4. ![image](https://github.com/devheloisacabral/REACT-QUIZ/assets/108575773/dbf2b3fa-3f34-457b-ada7-be8d4d78a789)
+
 5. ![image](https://github.com/devheloisacabral/REACT-QUIZ/assets/108575773/b81338cc-c653-4300-bb22-1501b165097d)
 
 
