@@ -20,8 +20,8 @@ A aplicação consiste em um quiz com 10 perguntas do básico ao avançado sobre
 
 ## 🛠️ Instalação
 
-1. Clone o repositório: `git clone https://github.com/seu-usuario/nome-do-repositorio.git`
-2. Entre no diretório do projeto: `cd nome-do-repositorio`
+1. Clone o repositório
+2. Entre no diretório do projeto
 3. Instale as dependências: `npm install`
 
 ## ▶️ Execução
